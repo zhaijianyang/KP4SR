@@ -1,0 +1,18 @@
+{
+  "book.written_work.author": "The author of [X] is [Y].",
+  "book.written_work.previous_in_series": "The previous series of [X] is [Y].", 
+  "book.written_work.original_language": "The original language of [X] is [Y].",
+  "book.book_subject.works": "Books on subject [X] include [Y].",
+  "book.author.works_written": "[X] wrote [Y].",
+  "book.written_work.subjects": "The subject of [X] is [Y].",
+  "book.book.genre": "The genre of [X] is [Y].",  
+  "media_common.adapted_work.adaptations": "[X] was adapted to [Y].",
+  "book.book.characters": "The characters in [X] include [Y].",
+  "book.book_character.appears_in_book": "[X] appears in [Y].",
+  "book.written_work.next_in_series": "The next series of [X] is [Y].",
+  "book.written_work.part_of_series": "[X] is part of series [Y].",
+  "media_common.adaptation.adapted_from": "[X] adapted from [Y].",
+  "book.literary_series.works_in_this_series": "Works in literary series [X] include [Y].",
+  "media_common.literary_genre.books_in_this_genre": "Books of genre [X] include [Y].",
+  "book.publishing_company.books_published": "[X] published [Y]."
+}
