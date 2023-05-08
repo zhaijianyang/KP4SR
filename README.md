@@ -16,6 +16,6 @@ Our code runs on the Ascend 910 NPU of Huawei modelarts.
 
 ## Usage 
 
-train: run scripts/modelarts_train.sh
-test: run scripts/modelarts_test.sh
+- train: run scripts/modelarts_train.sh
+- test: run scripts/modelarts_test.sh
 
